@@ -158,6 +158,8 @@ body{
 
 .card:hover{
     transform:translateY(-10px);
+    box-shadow: 0 15px 35px rgba(13,110,253,0.3);
+    cursor: pointer;
 }
 
 .card img{
